@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duke Soni</h1>
 <h3 align="center">3rd year passionate AI-ML student from India. Highly skilled and results-oriented professional with solid academic preparation. Good experience in intelligence 
 and Skills include analytical thinking and creative problem solving</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F02%2F73%2F46%2F99%2F360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fdk%2Fsearch%3Fk%3Dprogrammer%2520cartoon&tbnid=XqFKVsgAIu__GM&vet=10CNMBEDMouwFqFwoTCNjqueTxg_0CFQAAAAAdAAAAABAD..i&docid=mea4yUS3FeBxeM&w=360&h=360&itg=1&q=programmer%20animated&ved=0CNMBEDMouwFqFwoTCNjqueTxg_0CFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xwDvuuUH-kzj-HuZkrNGK8S0eRPYpo9MHg&usqp=CAU">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dukesoni&label=Profile%20views&color=0e75b6&style=flat" alt="dukesoni" /> </p>
