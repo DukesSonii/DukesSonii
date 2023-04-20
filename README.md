@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Duke Soni</h1>
 <h3 align="center">3rd year passionate AI-ML student from India. Highly skilled and results-oriented professional with solid academic preparation. Good experience in intelligence 
 and Skills include analytical thinking and creative problem solving</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xwDvuuUH-kzj-HuZkrNGK8S0eRPYpo9MHg&usqp=CAU">
+<img align="right" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xwDvuuUH-kzj-HuZkrNGK8S0eRPYpo9MHg&usqp=CAU">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dukesoni&label=Profile%20views&color=0e75b6&style=flat" alt="dukesoni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dukesoni&label=Profile%20views&color=0e75b6&style=flat" alt="dukesoni"/> </p>
 
 - 🌱 I’m currently learning **ML Development**
 
