@@ -12,7 +12,7 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💬 Ask me about **Neural Networks, Pattern Recognition**
+* 💬 Ask me about **Neural Networks, Pattern Recognition, Cognitive Psycology**
 
 * 💻 Learning [JavaScript](https://www.w3schools.com/js/).
 
