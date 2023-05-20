@@ -1,30 +1,110 @@
-<h1 align="center">Hi 👋, I'm Duke Soni</h1>
-<h3 align="center">3rd year passionate AI-ML student from India. Highly skilled and results-oriented professional with solid academic preparation. Good experience in intelligence 
-and Skills include analytical thinking and creative problem solving</h3>
-<img align="right" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xwDvuuUH-kzj-HuZkrNGK8S0eRPYpo9MHg&usqp=CAU">
+# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
-
+<a href="https://dukessonii.github.io/Duke.Github.io/"><img src="/src/profile_banner.gif"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dukesoni&label=Profile%20views&color=0e75b6&style=flat" alt="dukesoni"/> </p>
 
-- 🌱 I’m currently learning **ML Development**
 
-- 👯 I’m currently **running a DSA BootCamp**
+* 📖 Pursuing my Bachelor's in Computer Science with specialization in AI-Ml from [Jodhpur Institute of Engineering and technolog](https://www.jietjodhpur.ac.in/). 
 
-- 💬 Ask me about **Neural Networks, Pattern Recognition**
+* 👯 I’m currently *running a DSA BootCamp* 
 
+* 🧑🏻‍💻 Tech enthusiast, developer & a problem solver. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/duke-soni-ab0343226" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKzfU15t3BMM5X8ZnLIi_9Skjzdn_cJxhTg&usqp=CAU" alt="duke-soni-ab0343226" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/duke05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="duke05" height="30" width="40" /></a>
+* 💡 Always open to collaborating on projects and innovative ideas. 
+
+* 💬 Ask me about **Neural Networks, Pattern Recognition**
+
+* 💻 Learning [JavaScript](https://www.w3schools.com/js/).
+
+Unleash Your Coding Potential: Program, Innovate, and Rule the Digital Realm!. Find out more about me & feel free to connect with me here:
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/duke-soni-ab0343226/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://twitter.com/dukesoni_">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+  <a href="https://dukessonii.github.io/Duke.Github.io/">
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+<!-- 	</a>
+	<a href="https://www.behance.net/asmitbm">
+		<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
+	</a>
+	<a href="https://asmit.bio.link/">
+		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
+	</a> -->
+        <a href="mailto:dukesoni05@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="dKWWk1aWqtmlqybM6z8a8LRv0g" alt="c" width="40" height="40"/> </a>
-<a href="data:image/png;base64,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" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dukessonii&show_icons=true&locale=en&layout=compact" alt="dukessonii" /></p>
+## ⚡ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dukessonii&show_icons=true&locale=en" alt="dukessonii" /></p>
+### 🚀 Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dukessonii&" alt="dukessonii" /></p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧩 Libraries & Framework
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow)
+![kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle)
+ ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn)
+ 
+  
+### 🧑🏻‍💻 Tools & Platform
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+### 💻 Workspace
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dukessonii&show_icons=true&hide_border=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dukessonii&hide_border=true&theme=radical" />
+</p>
+
+
+## 🔝 Most used languages
+
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=dukessonii&layout=compact&hide_border=true&theme=radical" />
+</p>
+
+---
+
+## 📕 Pinned Repositories
+
+<p align="center">
+<a href="https://github.com/DukesSonii/Portfolio_website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukessonii&repo=Portfolio_website&hide_border=true&theme=radical" />
+</a>
+
+
+<a href="https://github.com/DukesSonii/LinkedIn_Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukessonii&repo=LinkedIn_Clone&hide_border=true&theme=radical" />
+</a>
+
+<a href="https://github.com/DukesSonii/LeetCode_BinaryTree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dukessonii&repo=LeetCode_BinaryTree&hide_border=true&theme=radical" />
+</a>
+
+</p>
