@@ -56,7 +56,7 @@ Unleash Your Coding Potential: Program, Innovate, and Rule the Digital Realm!. F
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow)
+![tensorflow](https://img.shields.io/badge/tensorflow-FC60A8?style=for-the-badge&logo=tensorflow)
 ![kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle)
  ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn)
  
@@ -69,8 +69,10 @@ Unleash Your Coding Potential: Program, Innovate, and Rule the Digital Realm!. F
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&color=525252)
+![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=google-eclipseide&logoColor=white)
 
+	
 ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
