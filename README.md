@@ -1,4 +1,4 @@
-# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
+Hello there! It's delightful to find you in this space!  <img src="/src/wave.gif" width="30px" height="30px">
 
 <a href="https://dukessonii.github.io/Duke.Github.io/"><img src="/src/profile_banner.gif"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dukesoni&label=Profile%20views&color=0e75b6&style=flat" alt="dukesoni"/> </p>
