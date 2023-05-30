@@ -28,10 +28,10 @@ Unleash Your Coding Potential: Program, Innovate, and Rule the Digital Realm!. F
   <a href="https://dukessonii.github.io/Duke.Github.io/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 <!-- 	</a>
-	<a href="https://www.behance.net/asmitbm">
+	<a href="https://www.behance.net/m">
 		<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 	</a>
-	<a href="https://asmit.bio.link/">
+	<a href="https://a/">
 		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
 	</a> -->
         <a href="mailto:dukesoni05@gmail.com">
@@ -88,7 +88,7 @@ Unleash Your Coding Potential: Program, Innovate, and Rule the Digital Realm!. F
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=dukessonii&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukessonii&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 ---
