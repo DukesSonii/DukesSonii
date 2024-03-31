@@ -26,7 +26,7 @@ Unleash Your Coding Potential: Program, Innovate, and Rule the Digital Realm!. F
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
  <a href="https://twitter.com/dukesoni_">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
  
 </p>
