@@ -27,6 +27,7 @@ Unleash Your Coding Potential: Program, Innovate, and Rule the Digital Realm!. F
 	</a>
   <a  href="https://dukesoni.netlify.app/>
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
  
 </p>
 
