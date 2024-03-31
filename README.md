@@ -25,18 +25,9 @@ Unleash Your Coding Potential: Program, Innovate, and Rule the Digital Realm!. F
 	<a href="https://twitter.com/dukesoni_">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-  <a href="https://dukessonii.github.io/Duke.Github.io/">
+  <a  href="https://dukesoni.netlify.app/>
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
-<!-- 	</a>
-	<a href="https://www.behance.net/m">
-		<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
-	</a>
-	<a href="https://a/">
-		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
-	</a> -->
-        <a href="mailto:dukesoni05@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
+ 
 </p>
 
 ---
